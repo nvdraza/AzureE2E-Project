@@ -1,1 +1,2 @@
-# AzureE2E-Project
+# tokyo-olympic-azure-data-engineering-project
+tokyo-olympic-azure-data-engineering-project
